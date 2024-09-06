@@ -11,7 +11,7 @@ Hello, I'm Yanxing Liu. I got a bachelor degree in School of Electronics and Inf
 
 Besides research, I'm particularly interested in the composition principles of computers and robotics. I enjoy building my own robots and computers. I have broad hobbies in reading, writing, and coding.
 
-I am expected to finish Ph.D in 2026. Therefore, I’m not actively looking for job opportunities now. But I'm interested in working with anyone who is working on the above topics. Drop me an [email](liuyanxing21@mail.ucas.edu.cn) if you want to collaborate.
+I am expected to finish Ph.D in 2026. Therefore, I’m not actively looking for job opportunities now. But I'm interested in working with anyone who is working on the above topics. Drop me an email if you want to collaborate.
 
 ## News
 - [2024-02] One paper is accepted by *IEEE T-GRS*.
