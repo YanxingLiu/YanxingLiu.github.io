@@ -15,10 +15,17 @@ I am expected to finish Ph.D in 2026. Therefore, I’m not actively looking for 
 
 ## News
 - [2024-02] One paper is accepted by *IEEE T-GRS*.
+- [2024-12] One paper is accepted by *Remote Sensing*.
+- [2024-12] One paper is accepted by *AAAI 2025*.
+— [2024-12] One paper is accepted by *IEEE JSTARS*.
 
 ## Research
-* **Locate Anything on Earth: Advancing Open-Vocabulary Object Detection for Remote Sensing Community** [\[paper\]](https://arxiv.org/pdf/2408.09110)
-  * Jiancheng Pan, **Yanxing Liu**, Yuqian Fu, Muyuan Ma, Jiaohao Li, Danda Pani Paudel, Luc Van Gool, Xiaomeng Huang
 * **Few-Shot Object Detection in Remote-Sensing Images via Label-Consistent Classifier and Gradual Regression** [\[paper\]](https://ieeexplore.ieee.org/document/10445268)[\[code\]](https://github.com/YanxingLiu/SAE-FSDet)
   * **Yanxing Liu**, Zongxu Pan, Jianwei Yang, Bingchen Zhang, Guangyao Zhou, Qixiang Ye
   * *IEEE Transactions on Geoscience and Remote Sensing, 2024*
+* **Multi-Modal Prototypes for Few-Shot Object Detection in Remote Sensing Images** [\[paper\]](https://www.mdpi.com/2072-4292/16/24/4693)
+  * **Yanxing Liu**, Zongxu Pan, Jianwei Yang, Peiling Zhou, Bingchen Zhang
+  * *Remote Sensing, 2024*
+* **Locate Anything on Earth: Advancing Open-Vocabulary Object Detection for Remote Sensing Community** [\[paper\]](https://arxiv.org/pdf/2408.09110)[\[code\]](https://github.com/jaychempan/LAE-DINO)
+  * Jiancheng Pan*, **Yanxing Liu***, Yuqian Fu, Muyuan Ma, Jiaohao Li, Danda Pani Paudel, Luc Van Gool, Xiaomeng Huang （* Authors contributed equally to this work）
+  * *AAAI, 2025*
