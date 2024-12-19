@@ -17,7 +17,7 @@ I am expected to finish Ph.D in 2026. Therefore, I’m not actively looking for 
 - [2024-02] One paper is accepted by *IEEE T-GRS*.
 - [2024-12] One paper is accepted by *Remote Sensing*.
 - [2024-12] One paper is accepted by *AAAI 2025*.
-— [2024-12] One paper is accepted by *IEEE JSTARS*.
+- [2024-12] One paper is accepted by *IEEE JSTARS*.
 
 ## Research
 * **Few-Shot Object Detection in Remote-Sensing Images via Label-Consistent Classifier and Gradual Regression** [\[paper\]](https://ieeexplore.ieee.org/document/10445268)[\[code\]](https://github.com/YanxingLiu/SAE-FSDet)
