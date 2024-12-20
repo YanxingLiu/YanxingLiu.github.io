@@ -27,5 +27,5 @@ I am expected to finish Ph.D in 2026. Therefore, I’m not actively looking for 
   * **Yanxing Liu**, Zongxu Pan, Jianwei Yang, Peiling Zhou, Bingchen Zhang
   * *Remote Sensing, 2024*
 * **Locate Anything on Earth: Advancing Open-Vocabulary Object Detection for Remote Sensing Community** [\[paper\]](https://arxiv.org/pdf/2408.09110)[\[code\]](https://github.com/jaychempan/LAE-DINO)
-  * Jiancheng Pan*, **Yanxing Liu***, Yuqian Fu, Muyuan Ma, Jiaohao Li, Danda Pani Paudel, Luc Van Gool, Xiaomeng Huang （* Authors contributed equally to this work）
+  * Jiancheng Pan *, **Yanxing Liu** *, Yuqian Fu, Muyuan Ma, Jiaohao Li, Danda Pani Paudel, Luc Van Gool, Xiaomeng Huang （* Authors contributed equally to this work）
   * *AAAI, 2025*
